@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/manufacture_receive_package_inspections/create.blade.php

@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/warehouses/edit.blade.php

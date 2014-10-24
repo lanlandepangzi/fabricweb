@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/goods_attrbute_values/index.blade.php

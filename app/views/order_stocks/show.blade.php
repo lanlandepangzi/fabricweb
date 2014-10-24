@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/order_stocks/show.blade.php

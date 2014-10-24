@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/samples/index.blade.php

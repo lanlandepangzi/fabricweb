@@ -1,0 +1,1 @@
+/Users/lan/Sites/hehe/app/views/samplewarehouses/create.blade.php
